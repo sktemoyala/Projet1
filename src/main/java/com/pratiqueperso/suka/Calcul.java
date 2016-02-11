@@ -12,6 +12,10 @@ package com.pratiqueperso.suka;
 public class Calcul {
     protected int var1=0,varr=0;
     
+    public String toString(){
+        return "Vous avez bien fais de ne pas le suivre!!!!!!!!!";
+    }
+    
     public double racineCaree(double valeur) {
         
         return Math.sqrt(valeur);
