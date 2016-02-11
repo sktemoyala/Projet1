@@ -10,7 +10,7 @@ package com.pratiqueperso.suka;
  * @author user
  */
 public class Calcul {
-    protected int var1=0,varr=0;
+ 
     
     public String toString(){
         return "Vous avez bien fais de ne pas le suivre!!!!!!!!!";
